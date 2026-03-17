@@ -15,15 +15,15 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/java-F3E600?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-F3E600?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/javascript-F3E600?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-F3E600?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=F3E600&style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=F3E600&style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F3E600&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=F3E600&style=for-the-badge&logo=visual-studio-code&logoColor=black" />
 </p>
 
 ### ⚡ My Portfolio 
 <a href="https://abizar-dholkawala.web.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-F3E600?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=PORTFOLIO&message=Visit+Site&color=F3E600&style=for-the-badge&logo=react&logoColor=black" />
 </a>
 
 ### 📬 Connect with me

@@ -1,4 +1,4 @@
-# Hi there, I'm Abizar Dholkawala 👋
+# Hi there, I'm <b>Abizar Dholkawala</b> 👋
 
 ### 🚀 About Me
 - 🎓 I'm currently a student pursuing Artificial Intelligence & Machine Learning
@@ -15,4 +15,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-blue?style=for-the-badge&logo=react)](https://abizar-dholkawala.web.app/)
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abizar-dholkawala-ab376a356/) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactsabizar@gmail.com) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/786485244806299681)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abizar-dholkawala-ab376a356/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactsabizar@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/786485244806299681)

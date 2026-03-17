@@ -15,30 +15,27 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-F3E600?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-F3E600?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/javascript-F3E600?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-F3E600?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
 </p>
 
 ### ⚡ My Portfolio 
 <a href="https://abizar-dholkawala.web.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-F3E600?style=for-the-badge&logo=react&logoColor=black&labelColor=black" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-F3E600?style=for-the-badge&logo=react&logoColor=black" />
 </a>
 
 ### 📬 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/abizar-dholkawala-ab376a356/">
-    <img src="https://img.shields.io/badge/LinkedIn-F3E600?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000" />
+    <img src="https://img.shields.io/badge/LinkedIn-F3E600?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a> 
   <a href="mailto:contactsabizar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F3E600?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000" />
+    <img src="https://img.shields.io/badge/Email-F3E600?style=for-the-badge&logo=gmail&logoColor=black" />
   </a> 
   <a href="https://discord.com/users/786485244806299681">
-    <img src="https://img.shields.io/badge/Discord-F3E600?style=for-the-badge&logo=discord&logoColor=black&labelColor=000" />
+    <img src="https://img.shields.io/badge/Discord-F3E600?style=for-the-badge&logo=discord&logoColor=black" />
   </a>
 </p>
-
-<br />
-
 </div>

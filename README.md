@@ -10,7 +10,7 @@
 <p>
   🎓 I'm currently a student pursuing <b>Artificial Intelligence & Machine Learning.</b><br>
   💡 I’m interested in <b>Web Development, Model Training, and Scalable Systems.</b><br>
-  🌱 I’m currently learning <b>Automated Workflows & Privacy-Preserving Tech</b>
+  🌱 I’m currently learning <b>Automated Workflows & Privacy-Preserving Tech.</b>
 </p>
 
 ### 🛠 Tech Stack

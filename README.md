@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=F3E600&height=200&section=header&text=KNIGHT%20SHADE&fontSize=80&fontColor=000000&animation=fadeIn" alt="Knight Shade Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E600&height=200&section=header&text=KNIGHT%20SHADE&fontSize=80&fontColor=000000&animation=fadeIn" alt="Knight Shade Banner" />
 
 <br />
 

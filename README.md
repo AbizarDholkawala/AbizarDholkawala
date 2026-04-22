@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=F3E600&height=200&section=header&text=KNIGHT%20SHADE&fontSize=80&fontColor=000000&animation=fadeIn" alt="Knight Shade Banner" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=F3E600&height=200&section=header&text=KNIGHT%20SHADE&fontSize=80&fontColor=000000&animation=fadeIn" alt="Knight Shade Banner" />
 
 <br />
 
@@ -19,16 +19,10 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/static/v1?label=&message=Java&color=F3E600&style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=F3E600&style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F3E600&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=F3E600&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=Java&color=F3E600&style=for-the-badge&logo=openjdk&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=Python&color=F3E600&style=for-the-badge&logo=python&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F3E600&style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=React&color=F3E600&style=for-the-badge&logo=react&logoColor=black" />
 </p>
 <p>
-  <img src="https://img.shields.io/static/v1?label=&message=Vite&color=F3E600&style=for-the-badge&logo=vite&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=Tailwind&color=F3E600&style=for-the-badge&logo=tailwindcss&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=Framer+Motion&color=F3E600&style=for-the-badge&logo=framer&logoColor=black" />
-  <img src="https://img.shields.io/static/v1?label=&message=Lenis&color=F3E600&style=for-the-badge&logo=scrollreveal&logoColor=black" />
+  <img src="https://img.shields.io/static/v1?label=&message=Vite&color=F3E600&style=for-the-badge&logo=vite&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=Tailwind&color=F3E600&style=for-the-badge&logo=tailwindcss&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=Framer+Motion&color=F3E600&style=for-the-badge&logo=framer&logoColor=black" /><img src="https://img.shields.io/static/v1?label=&message=Lenis&color=F3E600&style=for-the-badge&logo=scrollreveal&logoColor=black" />
 </p>
 
 ### ⚡ My Portfolio 
@@ -38,15 +32,7 @@
 
 ### 📬 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/abizar-dholkawala-ab376a356/">
-    <img src="https://img.shields.io/badge/LinkedIn-F3E600?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a> 
-  <a href="mailto:contactsabizar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F3E600?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a> 
-  <a href="https://discord.com/users/786485244806299681">
-    <img src="https://img.shields.io/badge/Discord-F3E600?style=for-the-badge&logo=discord&logoColor=black" />
-  </a>
+  <a href="https://www.linkedin.com/in/abizar-dholkawala-ab376a356/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=F3E600&style=for-the-badge&logo=linkedin&logoColor=black" /></a><a href="mailto:contactsabizar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=F3E600&style=for-the-badge&logo=gmail&logoColor=black" /></a><a href="https://discord.com/users/786485244806299681"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=F3E600&style=for-the-badge&logo=discord&logoColor=black" /></a>
 </p>
 
 <br />

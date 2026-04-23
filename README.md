@@ -26,7 +26,7 @@
 </p>
 
 ### ⚡ My Portfolio 
-<a href="https://abizarisadev.abizarisadev.workers.dev/">
+<a href="https://www.abizarisadev.workers.dev/">
   <img src="https://img.shields.io/static/v1?label=PORTFOLIO&message=Visit+Site&color=F3E600&style=for-the-badge&logo=react&logoColor=black" />
 </a>
 

@@ -32,7 +32,7 @@
 
 ### 📬 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/abizar-dholkawala-ab376a356/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=F3E600&style=for-the-badge&logo=linkedin&logoColor=black" /></a><a href="mailto:contactsabizar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=F3E600&style=for-the-badge&logo=gmail&logoColor=black" /></a><a href="https://discord.com/users/786485244806299681"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=F3E600&style=for-the-badge&logo=discord&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/abizardholkawala/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=F3E600&style=for-the-badge&logo=linkedin&logoColor=black" /></a><a href="mailto:contactsabizar@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=F3E600&style=for-the-badge&logo=gmail&logoColor=black" /></a><a href="https://discord.com/users/786485244806299681"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=F3E600&style=for-the-badge&logo=discord&logoColor=black" /></a>
 </p>
 
 <br />

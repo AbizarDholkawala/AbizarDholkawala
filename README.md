@@ -56,7 +56,4 @@
 
 <br />
 
-### 📊 GitHub Stats
-![Abizar's Stats](https://github-readme-stats.vercel.app/api?username=abizarda&show_icons=true&theme=tokyonight&bg_color=000000&title_color=F3E600&text_color=ffffff)
-
 </div>
